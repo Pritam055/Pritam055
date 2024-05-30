@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 ###
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam055&show_icons=true&locale=en&layout=compact&refresh=1&theme=dark&count_private=true" alt="Pritam055" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pritam055&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="Pritam055" /></p>
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam055&theme=dark" alt="Pritam055" /></p>
 
 ###
